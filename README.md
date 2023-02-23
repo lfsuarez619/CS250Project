@@ -1,2 +1,2 @@
 # CS250Project
-# This is the CS250 project's README file
+This is the CS250 project's README file
