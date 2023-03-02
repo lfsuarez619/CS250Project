@@ -1,3 +1,3 @@
 # CS250Project
 
-Software Design Final is the FINAL submission for part 2
+The documetn named "Software Design Final" is the FINAL submission for part 2
