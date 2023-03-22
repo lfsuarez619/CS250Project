@@ -1,2 +1,3 @@
 # CS250Project
-This is the CS250 project's README file
+
+The documetn named "Software Design Final" is the FINAL submission for part 2
